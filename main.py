@@ -23,5 +23,5 @@ with ui.column().classes('w-full items-center'):
 ui.run()
 
 '''
-4 hours
+login screen took 4 hours to complete. 1 hour was me hyperfocusing on an unimportant task. As well this was my first interaction with the gui framework
 '''
