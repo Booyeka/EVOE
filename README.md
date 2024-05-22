@@ -3,7 +3,9 @@ Fitness inspired applications with record keeping
 
 
 Breif roadmap of near future goals:
+
 Bold == Still to Do
+
 First application Task group:
 
 1:
