@@ -1,5 +1,8 @@
 from nicegui import ui
 
+'''
+LOGIN SCREEN
+'''
 ui.query('body').style(f'background-color: #ddeeff')
 
 with ui.column().classes('w-full items-center'):
