@@ -61,5 +61,5 @@ def timer_app():
 # timer_app()
 # ui.run()
 '''
-1 hour current work time
+3 hour current work time
 '''
