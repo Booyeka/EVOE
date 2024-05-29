@@ -1,5 +1,5 @@
 from nicegui import ui
-import timer_app
+import timer_app_input
 
 '''
 Main Screen
