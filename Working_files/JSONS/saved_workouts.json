@@ -1,0 +1,141 @@
+[
+  {
+    "group1": {
+      "ex1": {
+        "ex_desc": "Seated breathing",
+        "dur": 6
+      },
+      "ex2": {
+        "ex_desc": "Seated lateral bends, alternating",
+        "dur": 4
+      },
+      "ex3": {
+        "ex_desc": "Seated arms raised, thoracic flex/ext",
+        "dur": 3
+      }
+    },
+    "group2": {
+      "ex1": {
+        "ex_desc": "prayer stretch with shoulder flex, alternating",
+        "dur": 3
+      },
+      "ex2": {
+        "ex_desc": "prayer stretch with shoulder flex, adduction to end range alternating",
+        "dur": 3
+      }
+    },
+    "group3": {
+      "ex1": {
+        "ex_desc": "deadbug 5/5/5",
+        "dur": 3
+      },
+      "ex2": {
+        "ex_desc": "supermans",
+        "dur": 2
+      }
+    },
+    "group4": {
+      "ex1": {
+        "ex_desc": "RDL with bar, PPT, back extension focus",
+        "dur": 5
+      },
+      "ex2": {
+        "ex_desc": "downward dog",
+        "dur": 4
+      }
+    },
+    "other_info": {
+      "rounds": [
+        1
+      ],
+      "repeats_list": [
+        0,
+        0,
+        1,
+        0
+      ],
+      "total_mins": [
+        38
+      ],
+      "date": "Jun-12-2024",
+      "time": "16:34"
+    }
+  },
+  {
+    "group1": {
+      "ex1": {
+        "ex_desc": "Supine breathing",
+        "dur": 10
+      }
+    },
+    "group2": {
+      "ex1": {
+        "ex_desc": "hanging assisted isometric squats",
+        "dur": 2
+      },
+      "ex2": {
+        "ex_desc": "HA iso squat alternating marches",
+        "dur": 1
+      }
+    },
+    "group3": {
+      "ex1": {
+        "ex_desc": "deadbugs tempo: 5/5/5",
+        "dur": 2
+      },
+      "ex2": {
+        "ex_desc": "prone super mans: tempo: 5/5",
+        "dur": 1
+      }
+    },
+    "group4": {
+      "ex1": {
+        "ex_desc": "Seated  head circles alternating CW/CCW",
+        "dur": 2
+      },
+      "ex2": {
+        "ex_desc": "Seated neck flex/ext",
+        "dur": 1
+      },
+      "ex3": {
+        "ex_desc": "seated lateral neck flexion",
+        "dur": 1
+      },
+      "ex4": {
+        "ex_desc": "seated thoracic flex/ext with shoulder horizontal flex-ER/ext-IR",
+        "dur": 3
+      },
+      "ex5": {
+        "ex_desc": "seated AB lean backs tempo: 5/5 -> 10/10",
+        "dur": 3
+      }
+    },
+    "group5": {
+      "ex1": {
+        "ex_desc": "supine hip/knee 90/90 hip abduction resisted with TB temp: 5/5",
+        "dur": 2
+      },
+      "ex2": {
+        "ex_desc": "supine breathing ",
+        "dur": 10
+      }
+    },
+    "other_info": {
+      "rounds": [
+        1
+      ],
+      "repeats_list": [
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      "total_mins": [
+        41
+      ],
+      "date": "Jun-09-2024",
+      "time": "14:31"
+    }
+  }
+]
