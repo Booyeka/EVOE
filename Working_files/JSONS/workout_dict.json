@@ -1,46 +1,8 @@
 {
   "group1": {
     "ex1": {
-      "ex_desc": "Seated breathing",
-      "dur": 6
-    },
-    "ex2": {
-      "ex_desc": "Seated lateral bends, alternating",
-      "dur": 4
-    },
-    "ex3": {
-      "ex_desc": "Seated arms raised, thoracic flex/ext",
-      "dur": 3
-    }
-  },
-  "group2": {
-    "ex1": {
-      "ex_desc": "prayer stretch with shoulder flex, alternating",
-      "dur": 3
-    },
-    "ex2": {
-      "ex_desc": "prayer stretch with shoulder flex, adduction to end range alternating",
-      "dur": 3
-    }
-  },
-  "group3": {
-    "ex1": {
-      "ex_desc": "deadbug 5/5/5",
-      "dur": 3
-    },
-    "ex2": {
-      "ex_desc": "supermans",
-      "dur": 2
-    }
-  },
-  "group4": {
-    "ex1": {
-      "ex_desc": "RDL with bar, PPT, back extension focus",
-      "dur": 5
-    },
-    "ex2": {
-      "ex_desc": "downward dog",
-      "dur": 4
+      "ex_desc": "heehe",
+      "dur": 1
     }
   }
 }

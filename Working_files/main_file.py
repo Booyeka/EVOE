@@ -31,7 +31,7 @@ login screen took 4 hours to complete. 1 hour was me hyperfocusing on an unimpor
 '''
 Main Screen
 '''
-with open("Working_files\JSONS\saved_workouts.json", "r") as openfile:
+with open("JSONS\saved_workouts.json", "r") as openfile:
     saved_workouts = json.load(openfile)
 saved_workout_count = [0]
 
@@ -284,11 +284,11 @@ def save_json_nav(w_dict):
     if not workout_dict:
         ui.notify('Please enter exercises')
     else:
-        with open("Working_files\JSONS\workout_dict.json", "w") as outfile:
+        with open("JSONS\workout_dict.json", "w") as outfile:
             json.dump(w_dict, outfile, indent=2)
-        with open("Working_files\\JSONS\\repeat_list.json", "w") as outfile:
+        with open("JSONS\\repeat_list.json", "w") as outfile:
             json.dump(repeat, outfile, indent=2)
-        with open("Working_files\\JSONS\\rounds.json", "w") as outfile:
+        with open("JSONS\\rounds.json", "w") as outfile:
             json.dump(rounds, outfile, indent=2)
         
         ui.navigate.to(f'/workout_screen')

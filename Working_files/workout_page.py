@@ -7,7 +7,7 @@ WORKOUT SCREEN
 '''
 
 ''' end sound path needs changed to machine specific file path  -- FULL PATH'''
-end_sound_path = "Working_files\\audio_files\\end exercise.mp3"
+end_sound_path = "audio_files\\end exercise.mp3"
 
 
 group_count = [0]
@@ -225,11 +225,11 @@ def workout_top_row(rounds, total_min):
 
 @ui.page("/workout_screen")
 def workout_screen():
-    with open('Working_files\JSONS\workout_dict.json', 'r') as openfile:
+    with open('JSONS\workout_dict.json', 'r') as openfile:
         workout_dict = json.load(openfile)
-    with open('Working_files\\JSONS\\repeat_list.json', 'r') as openfile:
+    with open('JSONS\\repeat_list.json', 'r') as openfile:
         repeats_list = json.load(openfile) 
-    with open("Working_files\\JSONS\\rounds.json", "r") as openfile:
+    with open("JSONS\\rounds.json", "r") as openfile:
         rounds = json.load(openfile)
 
     static_repeats_list = repeats_list[:]
